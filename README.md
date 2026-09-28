@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm a Full-Stack, AI & Web3 Engineer 👋
 
-<!--
-**huzmama/huzmama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance web applications, engineer autonomous AI agents, and integrate Web3/blockchain capabilities. Passionate about modern JavaScript/TypeScript ecosystems, scalable backends, and deploying cutting-edge AI architectures.
 
-Here are some ideas to get you started:
+### 🔭 Current Focus
+- Engineering scalable platforms using **React, Next.js, and Node.js**.
+- Developing autonomous **AI Agents** and custom **LLM** workflows.
+- Integrating **Web3 / Blockchain** protocols and decentralized dApp features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Stack & Tools
+- **Languages:** JavaScript (ES6+), TypeScript, Python, HTML5, CSS3
+- **Frontend & Web3:** React.js, Next.js, Redux, Tailwind CSS, Web3.js, Ethers.js
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Databases:** MongoDB, PostgreSQL, Firebase
+- **AI & Automation:** AI Agents, LangChain, LLM Execution, Local Model Deployment, OpenAI API
+- **DevOps & Tools:** Git, GitHub, Docker, Postman, Vercel, Netlify
+
+### 📫 Connect With Me
+- **Email:** [jamanrafi3@gmail.com](mailto:jamanrafi3@gmail.com)
+- **WhatsApp:** [+8801746532813](https://wa.me/8801746532813)
+- **LinkedIn:** [https://www.linkedin.com/in/huzmama/]
